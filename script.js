@@ -20,7 +20,7 @@
 
 
 // Create a program that asks the user for their age and determines if they are eligible to vote (considering a voting age of 18).
-// getting input 
+    // getting input 
 
     var age = ("17");
 
@@ -33,7 +33,7 @@
 
 
 // Write a script that takes a user's grade as input and outputs whether they passed or failed (assuming the passing grade is 60 or above).
-// getting input 
+    // getting input 
 
     var grade = ("50");
 
